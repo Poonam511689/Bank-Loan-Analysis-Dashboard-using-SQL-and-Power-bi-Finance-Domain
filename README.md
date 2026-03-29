@@ -1,7 +1,6 @@
-# Bank-Loan-Analysis-Dashboard-using-SQL-and-Power-bi-Finance-Domain
 Project Overview
 
-This project focuses on analyzing bank loan data to extract meaningful insights and build an interactive dashboard using SQL Server and Power BI.
+This project focuses on analyzing bank loan data to extract meaningful insights and build an interactive dashboard using SQL (PostgreSQL) and Power BI.
 
 The goal is to understand loan performance, borrower behavior, and key financial metrics to support data-driven decision making in the finance domain.
 
@@ -14,7 +13,7 @@ Build an interactive dashboard for stakeholders
 Tech Stack
 SQL (PostgreSQL) – Data extraction & analysis
 Power BI – Data visualization & dashboard creation
-Excel – Data preprocessing
+Microsoft Excel – Data preprocessing
 Database & SQL Work
 Created database and tables in PostgreSQL
 Performed data cleaning and transformation
@@ -34,7 +33,7 @@ Average DTI
 Good Loan vs Bad Loan KPIs
 🔹 Dashboard 2: Overview
 
-Visual analysis using:
+Visual Analysis using:
 
 📈 Monthly Trends (Line Chart)
 🗺️ Regional Analysis (Map)
@@ -46,23 +45,23 @@ Visual analysis using:
 Complete loan data overview
 Grid view for deep insights
 Easy access to borrower and loan metrics
-📈 Key Insights
+Key Insights
 Identified patterns in loan approvals and repayments
 Compared good vs bad loans to assess risk
 Analyzed regional and demographic trends
 Evaluated financial health using DTI and interest rates
-🧠 Skills Learned
+Skills Learned
 SQL Query Writing (Joins, CTEs, Aggregations)
 Data Cleaning & Transformation
 Power BI (DAX, KPIs, Visualizations)
 Data Modeling & Dashboard Design
-💻 Tools Used
+Tools Used
 PostgreSQL
 Power BI
 Microsoft Excel
 📷 Dashboard Preview
 
-(Add screenshots of your Power BI dashboards here)
+👉 (Add screenshots of your Power BI dashboards here)
 
 🚀 How to Use
 Import dataset into PostgreSQL
