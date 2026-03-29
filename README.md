@@ -10,10 +10,12 @@ Identify good vs bad loans
 Track monthly trends and performance (MTD & MoM)
 Understand borrower profiles and loan distribution
 Build an interactive dashboard for stakeholders
+
 Tech Stack
 SQL (PostgreSQL) – Data extraction & analysis
 Power BI – Data visualization & dashboard creation
 Microsoft Excel – Data preprocessing
+
 Database & SQL Work
 Created database and tables in PostgreSQL
 Performed data cleaning and transformation
@@ -24,6 +26,7 @@ Average Interest Rate
 Debt-to-Income Ratio (DTI)
 Good Loan vs Bad Loan Analysis
 Power BI Dashboard
+
 🔹 Dashboard 1: Summary
 Total Loan Applications (MTD & MoM)
 Total Funded Amount
